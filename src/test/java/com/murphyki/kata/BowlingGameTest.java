@@ -1,7 +1,9 @@
 package com.murphyki.kata;
 
+import org.junit.Test;
 
-import junit.framework.TestCase;
-
-public class BowlingGameTest extends TestCase {
+public class BowlingGameTest {
+    @Test
+    public void testDoNothing()
+    {}
 }
