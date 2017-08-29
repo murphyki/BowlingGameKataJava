@@ -4,6 +4,8 @@ import org.junit.Test;
 
 public class BowlingGameTest {
     @Test
-    public void testDoNothing()
-    {}
+    public void testGutterGame() throws Exception
+    {
+        Game game = new Game();
+    }
 }
